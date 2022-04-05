@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AliBoka
 - 👀 I’m interested in js
-- 🌱 I’m currently learning js
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 📞 +98-910-331-0486 (WhatsApp)
 - 🇮🇷 🙌
